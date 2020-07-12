@@ -2,30 +2,11 @@
 
 ### Fullstack Developer
 
-#### ***Lenguajes de Programación***
+#### Hola :wave: ,  
+Mi nombre es Fernando, vivo en Argentina, soy un chico autodidacta y colaborativo, tengo amplio conocimientos en diferentes tecnologías web, móvil y tv. Utilizó sistemas operativos basados en Open Source como Huayra, Huayra Primaria, Ubuntu y Debian Linux. 
 
- - Javascript
- - Elixir
- - Python
+***Puedes contactarme en:***
+[Linkedin](https://www.linkedin.com/in/fernandogabriellopez/)
+[Email](fer.ragnar19@gmail.com)
 
-#### ***Base de Datos***
-
- - MongoDB
- - PostgreSQL
- - MySQL
-
-#### ***Conocimientos en tipo de streaming*** 
-Dash, smooth y hls para televisores samsung tizen, lg webos y sony android
-
-#### ***Framework y librerías***
-- Node.js
--  React y react native
-- Angular
-- Material UI
-- Phoenix Framework Web (elixir)
-- Socket.io
-- Express
-- Ionic
-- Jest
-
-##### Utilizó sistemas operativos como Huayra, Huayra Primaria, Ubuntu y Debian Linux. Autodidacta y colaborativo.
+Visite  mis repositorio que están más abajo :point_down: :point_down: :point_down:
