@@ -2,17 +2,30 @@
 
 ### Fullstack Developer
 
-Lenguajes de Programación
+#### ***Lenguajes de Programación***
 
- - Javascript (node, react, react native, ionic, angular)
+ - Javascript
  - Elixir
  - Python
 
-Base de Datos
+#### ***Base de Datos***
 
  - MongoDB
  - PostgreSQL
  - MySQL
 
+#### ***Conocimientos en tipo de streaming*** 
+Dash, smooth y hls para televisores samsung tizen, lg webos y sony android
 
+#### ***Framework y librerías***
+- Node.js
+-  React y react native
+- Angular
+- Material UI
+- Phoenix Framework Web (elixir)
+- Socket.io
+- Express
+- Ionic
+- Jest
 
+##### Utilizó sistemas operativos como Huayra, Huayra Primaria, Ubuntu y Debian Linux. Autodidacta y colaborativo.
