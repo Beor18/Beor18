@@ -7,4 +7,4 @@ Mi nombre es Fernando, vivo en Argentina, soy un chico autodidacta y colaborativ
  - [Linkedin](https://www.linkedin.com/in/fernandogabriellopez/) 
  - [Email](fer.ragnar19@gmail.com)
 
-Visite  mis repositorio que están más abajo :point_down: :point_down: :point_down:
+Visite  mis repositorios que están más abajo :point_down: :point_down: :point_down:
