@@ -7,6 +7,6 @@ Mi nombre es Fernando, vivo en Argentina, soy un chico autodidacta y colaborativ
  - [Linkedin](https://www.linkedin.com/in/fernandogabriellopez/) 
  - [Email](fer.ragnar19@gmail.com)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beor18&layout=compact&hide=php&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beor18&layout=compact&hide=php&include_all_commits=true&card_width=854)](https://github.com/anuraghazra/github-readme-stats)
 
 Visite  mis repositorios que están más abajo :point_down: :point_down: :point_down:
