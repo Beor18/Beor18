@@ -3,6 +3,8 @@
 #### Hola :wave: ,  
 Mi nombre es Fernando, vivo en Argentina, soy un chico autodidacta y colaborativo, tengo amplio conocimientos en diferentes tecnologías web, móvil y tv. Utilizó sistemas operativos basados en Open Source como Huayra, Huayra Primaria, Ubuntu y Debian Linux. 
 
+Aprendiendo Solidity...
+
 ***Puedes contactarme en:***
  - [Linkedin](https://www.linkedin.com/in/fernandogabriellopez/) 
  - [Email](fer.ragnar19@gmail.com)
