@@ -3,13 +3,15 @@
 #### Hola :wave: ,  
 Mi nombre es Fernando, vivo en Argentina, soy autodidacta, colaborativo y padre de 2 hermosos hijos, tengo amplio conocimientos en diferentes tecnologías web, móvil y tv. Utilizó sistemas operativos basados en Open Source como Huayra, Huayra Primaria, Ubuntu y Debian Linux. 
 
-***Mi Stack favorito:***
+***Trabajo con las siguientes tecnologías:***
 
-- Node.js
 - Solidity
+- Node.js
 - React // Next.js
-- Material UI // Chakra UI
-
+- Material UI // Chakra UI // CSS // SCSS
+- BrightScript (Roku TV)
+- Elixir
+- MongoDB // MySQL
 
 ***Puedes contactarme en:***
  - [Linkedin](https://www.linkedin.com/in/fernandogabriellopez/) 
