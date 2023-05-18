@@ -6,8 +6,8 @@ Mi nombre es Fernando, vivo en Argentina, soy autodidacta, colaborativo y padre 
 ***Trabajo con las siguientes tecnologías:***
 
 - Solidity
+- React // Next.js // Typescript
 - Node.js
-- React // Next.js
 - Material UI // Chakra UI // CSS // SCSS
 - BrightScript (Roku TV)
 - Elixir
