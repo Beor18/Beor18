@@ -10,10 +10,10 @@
 #### 🧰 Mis Conocimientos Técnicos:
 
 - **Web & Mobile:** React, Next.js, Typescript, Node.js
-- **UI/UX:** Material UI, Chakra UI, CSS, SCSS
-- **Blockchain:** Solidity
+- **UI/UX:** Material UI, Chakra UI, CSS, SCSS, Tailwind
+- **Blockchain:** Solidity (ethereum), Rust (solana)
 - **TV Apps:** BrightScript para Roku TV
-- **Backend & Bases de Datos:** Elixir, MongoDB, MySQL
+- **Backend & Bases de Datos:** Rust, GoLang, Elixir, MongoDB, MySQL
 - **Sistemas Operativos:** Huayra, Huayra Primaria, Ubuntu, Debian Linux (Open Source)
 
 ---
