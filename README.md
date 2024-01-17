@@ -1,20 +1,29 @@
-# Fullstack Developer [![Stackly Code Community - Discord](https://img.shields.io/badge/Stackly_Code_Community-Discord-162C5B)](https://discord.stacklycode.com)
+### Hola, Soy Fernando 👋 [![Stackly Code Community - Discord](https://img.shields.io/badge/Stackly_Code_Community-Discord-162C5B)](https://discord.stacklycode.com) 
 
-#### Hola :wave: ,  
-Mi nombre es Fernando, vivo en Argentina, soy autodidacta, colaborativo y padre de 2 hermosos hijos, tengo amplio conocimientos en diferentes tecnologías web, móvil y tv. Utilizó sistemas operativos basados en Open Source como Huayra, Huayra Primaria, Ubuntu y Debian Linux. 
+🌎 **Ubicación:** Argentina  
+👨‍👧‍👦 **Vida personal:** Padre orgulloso de 2 hermosos hijos  
+🌐 **Profesión:** Founder en Elei.io y Fullstack Developer
+🚀 **Enfoque:** Autodidacta, colaborativo y apasionado por las tecnologías emergentes
 
-***Trabajo con las siguientes tecnologías:***
+---
 
-- Solidity
-- React // Next.js // Typescript
-- Node.js
-- Material UI // Chakra UI // CSS // SCSS
-- BrightScript (Roku TV)
-- Elixir
-- MongoDB // MySQL
+#### 🧰 Mis Conocimientos Técnicos:
 
-***Puedes contactarme en:***
- - [Linkedin](https://www.linkedin.com/in/fernandogabriellopez/) 
- - [Email](fer.ragnar19@gmail.com)
+- **Web & Mobile:** React, Next.js, Typescript, Node.js
+- **UI/UX:** Material UI, Chakra UI, CSS, SCSS
+- **Blockchain:** Solidity
+- **TV Apps:** BrightScript para Roku TV
+- **Backend & Bases de Datos:** Elixir, MongoDB, MySQL
+- **Sistemas Operativos:** Huayra, Huayra Primaria, Ubuntu, Debian Linux (Open Source)
 
-Visite  mis repositorios que están más abajo :point_down: :point_down: :point_down:
+---
+
+#### 📫 Contáctame:
+
+- [Linkedin](https://www.linkedin.com/in/fernandogabriellopez/)
+- [Email](fer.ragnar19@gmail.com))
+
+---
+
+🔍 **Echa un vistazo a mis proyectos más recientes aquí abajo.** 👇👇👇
+
