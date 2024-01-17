@@ -3,6 +3,7 @@
 🌎 **Ubicación:** Argentina  
 👨‍👧‍👦 **Vida personal:** Padre orgulloso de 2 hermosos hijos  
 🌐 **Profesión:** Founder en Elei.io y Fullstack Developer
+
 🚀 **Enfoque:** Autodidacta, colaborativo y apasionado por las tecnologías emergentes
 
 ---
