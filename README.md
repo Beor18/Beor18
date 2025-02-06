@@ -22,7 +22,7 @@
 #### 📫 Contáctame:
 
 - [Linkedin](https://www.linkedin.com/in/fernandogabriellopez/)
-- [Email](fer.ragnar19@gmail.com))
+- [Email](fer.ragnar19@gmail.com)
 
 ---
 
